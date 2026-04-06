@@ -1,4 +1,0 @@
-/mnt/c/StudyProjects/OSlabs/os_cp/build/CMakeFiles/test_buddy.dir
-/mnt/c/StudyProjects/OSlabs/os_cp/build/CMakeFiles/test_mk.dir
-/mnt/c/StudyProjects/OSlabs/os_cp/build/CMakeFiles/edit_cache.dir
-/mnt/c/StudyProjects/OSlabs/os_cp/build/CMakeFiles/rebuild_cache.dir
