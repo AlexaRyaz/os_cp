@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/test_buddy.dir/tests/main_test.c.o CMakeFiles/test_buddy.dir/src/allocator_buddy.c.o -o test_buddy 
